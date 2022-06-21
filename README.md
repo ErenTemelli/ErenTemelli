@@ -26,6 +26,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=erentemelli&show_icons=true&locale=en&layout=compact" alt="erentemelli" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=erentemelli&show_icons=true&locale=en" alt="erentemelli" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=erentemelli&show_icons=true&locale=tr&include_all_commits=false" alt="erentemelli" /></p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=erentemelli&show_icons=true&theme=radical&include_all_commits=true)

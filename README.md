@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eren Temelli</h1>
-<h3 align="center">A passionate full stack .NET developer from Turkiye</h3>
+<h3 align="center">A passionate Full Stack .NET developer from Turkiye</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erentemelli&label=Profile%20views&color=0e75b6&style=flat" alt="erentemelli" /> </p>
 

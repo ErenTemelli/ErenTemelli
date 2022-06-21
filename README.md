@@ -28,4 +28,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=erentemelli&show_icons=true&locale=en" alt="erentemelli" /></p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=erentemelli&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=erentemelli&show_icons=true&theme=radical&include_all_commits=true)

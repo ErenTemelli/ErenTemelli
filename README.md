@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working at **Federal-Mogul Turkiye**
 
-- 🌱 I’m currently learning **API's, React**
+- 🌱 I’m currently learning **API's, Node.js**
 
 - 🤝 I’m looking for help with **Communication with API's**
 

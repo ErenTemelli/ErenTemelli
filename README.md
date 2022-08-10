@@ -6,7 +6,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=erentemelli&count_private=true" alt="erentemelli" /></a> </p>
 
-- 🔭 I’m currently working at **Federal-Mogul Turkiye**
+- 🔭 I’m currently working at **Seyir Mobil**
 
 - 🌱 I’m currently learning **API's, Node.js**
 

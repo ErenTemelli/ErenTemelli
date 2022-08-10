@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working at **Seyir Mobil**
 
-- 🌱 I’m currently learning **API's, Node.js**
+- 🌱 I’m currently learning **API's, Angular**
 
 - 🤝 I’m looking for help with **Communication with API's**
 

@@ -8,11 +8,9 @@
 
 - 🔭 I’m currently working at **Seyir Mobil**
 
-- 🌱 I’m currently learning **API's, Angular**
+- 🌱 I’m currently learning **Microservices**
 
-- 🤝 I’m looking for help with **Communication with API's**
-
-- 💬 Ask me about **SQL, ASP.Net MVC**
+- 💬 Ask me about **SQL, ASP.Net MVC, Angular**
 
 - 📫 How to reach me **eren.temelli34@gmail.com**
 
